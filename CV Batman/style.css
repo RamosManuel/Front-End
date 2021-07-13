@@ -1,0 +1,39 @@
+h1{
+color: #005677;
+background-color: #C4C4C4;
+text-align: center;
+letter-spacing: 15px;
+font-weight: bold;
+
+
+}
+h2{
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align:left;
+    letter-spacing: 5px;
+    font-weight: bold;
+
+    
+}
+.logo{
+    margin-left: 50%;
+}
+
+.en-negrita{
+    font-weight: bold;
+}
+.Seccion-principal{
+
+    margin: 0  auto;
+    margin-top: 5%;
+    width: 70%;
+}
+.footer{
+    color: white;
+    background-color: #005677;
+    margin-top: 5%;
+    text-align: center;
+   
+}
+
