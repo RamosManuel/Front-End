@@ -1,0 +1,89 @@
+body{
+    background-color: gray;
+}
+header{
+    background-color: rgb(22, 22, 56);
+    width: 60%;
+    margin-left: 20%;
+    
+    
+}
+.encabezado{
+    background-color: rgb(22, 22, 56);
+    width: 45%;
+    margin-left: 55%;
+    color: white;
+    font-size: 160%;
+    text-align: left;
+    letter-spacing: 25px;
+    text-transform: uppercase;
+}
+.cuadros{
+    background-color: white;
+    width: 60%;
+    margin-left: 20%;
+}
+.cuadroDer{
+    width: 60%;
+    background-color: white;
+    margin-left: 40%;
+    
+}
+.cuadroDer h3{
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    font-size: 150%;   
+}
+.cuadroDer a{
+    text-decoration: none;
+    color:black;
+}
+.cuadroDer p{
+    font-size: 19px;
+    text-align: justify;
+    
+}
+.interior_cuadroDer{
+    width: 60%;
+    margin-left: 20%;
+
+}
+.en-negrita{
+    font-weight: bold;  
+}
+.cuadroIzq{
+    background-color: rgb(218, 218, 218);
+    width: 40%;
+    margin-top: -110%;
+    margin-left: 4%;
+    padding-bottom: 20%;
+    
+}
+.interior_cuadroIzq{
+    width: 80%;
+    margin-left: 10%;  
+}
+img{
+    padding-top: 15%;
+    margin-left: 15%;
+}
+footer{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: -0.8%;
+    background-color: rgb(22, 22, 56);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+  }
