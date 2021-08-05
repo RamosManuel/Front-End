@@ -1,80 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 body{
     background-color: gray;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    margin-left: 20%;
+    
 }
+
 header{
     background-color: rgb(22, 22, 56);
-    width: 60%;
-    margin-left: 20%;
-    
-    
-}
-.encabezado{
-    background-color: rgb(22, 22, 56);
-    width: 45%;
-    margin-left: 55%;
     color: white;
+    font-weight: bold;
     font-size: 160%;
-    text-align: left;
     letter-spacing: 25px;
     text-transform: uppercase;
+    padding-left: 50%;
+    margin-top: -5%;
+    
+
 }
-.cuadros{
-    background-color: white;
-    width: 60%;
-    margin-left: 20%;
-}
-.cuadroDer{
-    width: 60%;
-    background-color: white;
-    margin-left: 40%;
+main{
+    background-color: red;
+    color: rgb(22, 22, 56);
     
 }
-.cuadroDer h3{
+    
+.cuadros{
+    display: flex;
+    background-color: white;
+    
+}
+.links{
+    width: 143.8%;
+    margin-left: -25%;
+    
+}      
+
+.cuadro1{
+    background-color:rgb(218, 218, 218);
+    width: 35%;
+    margin-left: 7.5%;    
+    margin-top: -18%;
+    
+}
+.cuadro1Interior{
+    width: 70%;
+    padding-left: 15%;
+    padding-top: 15%;
+}
+.img1{
+    width: 100%;
+}
+.cuadro2{
+    
+    width: 40%;
+    margin-left: 10%;
+    color: rgb(22, 22, 56);
+}
+.cuadro2 a{
+    text-decoration: none;
+    color: rgb(22, 22, 56);
+}
+h3{
     padding-bottom: 1%;
-    padding-top: 1%;
+    padding-top: 1%; 
     background-color: rgb(218, 218, 218);
     text-align: center;
-    font-size: 150%;   
-}
-.cuadroDer a{
-    text-decoration: none;
-    color:black;
-}
-.cuadroDer p{
-    font-size: 19px;
-    text-align: justify;
-    
-}
-.interior_cuadroDer{
-    width: 60%;
-    margin-left: 20%;
-
+    font-size: 150%; 
 }
 .en-negrita{
     font-weight: bold;  
 }
-.cuadroIzq{
-    background-color: rgb(218, 218, 218);
-    width: 40%;
-    margin-top: -110%;
-    margin-left: 4%;
-    padding-bottom: 20%;
-    
-}
-.interior_cuadroIzq{
-    width: 80%;
-    margin-left: 10%;  
-}
-img{
-    padding-top: 15%;
-    margin-left: 15%;
-}
 footer{
-    padding-top: 1%;
-    padding-bottom: 1%;
-    width: 60%;
-    margin-left: 20%;
-    margin-top: -0.8%;
+    padding: 1%;
     background-color: rgb(22, 22, 56);
     color: white;
     text-align: center;
@@ -82,8 +82,7 @@ footer{
     letter-spacing: 2px;
     word-spacing: 10px;
 }
-
-a {
+a  {
     text-decoration: none;
     color:white;
   }
