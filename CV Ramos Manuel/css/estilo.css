@@ -58,6 +58,7 @@ main{
     width: 40%;
     margin-left: 10%;
     color: rgb(22, 22, 56);
+    text-align: justify;
 }
 .cuadro2 a{
     text-decoration: none;
